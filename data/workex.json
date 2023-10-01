@@ -1,0 +1,84 @@
+[
+	{
+		"position": "Machine Learning/Computer Vision Research Intern", 
+		"sdate": "July 2023 \u2014 Present", 
+		"desc": {
+			"num": 4, 
+			"bullets": [
+				"• Designed and implemented an end-to-end, realtime image face enhancemet model using Attention based Generative Adversarial Networks, improving user visual quality perception by 7%", 
+				"• Collaborated closely with hardware and software teams to understand Jabra camera specifications. Optimized the above ML pipeline for seamless deployment and monitoring into existing Jabra camera software systems", 
+				"• Analyzed, processed large image/video datasets on cloud to fine-tune deep learning models, improved accuracy by 3% over baseline model."
+			], 
+			"heading": "Camera Vison AI"
+			}, 
+		"employer": "Jabra GN (Video Camera Systems) - Cupertino, CA"
+	}, 
+
+	{
+		"position": "Machine Learning Intern",  
+		"sdate": "July 2022 \u2014 September 2022", 
+		"desc": {
+			"num": 4, 
+			"bullets": [
+				"• Designed and implemented a synthetic data-creation pipeline to generate realistic healthcare records using Generative Adversarial Networks; this Al-assisted healthcare pipeline resulted in an increase of 17% user retention and new subscription by 4%.", 
+				"• Designed and implemented an end-to-end, realtime image face enhancemet model using Attention based Generative Adversarial Networks, improving user visual quality perception by 7%",
+				"• Conducted statistical experiment design (A/B testing) to validate the significance of the data-creation pipeline.",  
+				"• Analyzed 50M+ anonymized patient medical records using statistical models and built a diagnosis prediction model for queried ailments; improved performance over baseline by 3%.",
+				"• Integrated the diagnosis prediction model with the synthetic data-creation pipeline to verify trends in the generated synthetic data.", 
+				"• Built a real-time data visualization/analytics dashboard using with ReactJs and GraphQL displaying de-identified patient records for various ailments, and medications" , 
+				"• Built a SQL workflow to retrieve and optimize patient-specific medical data achieving a latency improvement of 5%."
+			], 
+			"heading": "ML - DS team "
+			}, 
+		"employer": "Truveta (healthcare startup) - Bellevue, WA"
+	}, 
+
+	{
+		"position": "Machine Learning Capstone Project",  
+		"sdate": "Jan 2022 \u2014 June 2022", 
+		"desc": {
+			"num": 4, 
+			"bullets": [
+				"• Led a team of 5 students to design and build a full-stack Deep Learning framework toward real-time field view object recognition task of fine-grained dog breed detection. Built a 2 stage object detection network using Yolov5 and ResNet50 architecture to achieve an mAP score of 0.8",
+				"• Collected 30% of data on Wyze security cameras, performed Exploratory Data Analysis, and developed scripts for preprocessing, and feature engineering in accordance with best privacy practices, ensuring compliance with GDPR data regulations.", 
+				"• Containerized the object recognition workflow using Docker and deployed EC2 and API gateway service, improving latency by 6%. Integrated these models with the Wyze home security camera prototype."
+			], 
+			"heading": "ML/DS/DE"
+			}, 
+		"employer": " Wyze AI Labs (home security cameras) - Bellevue, WA"
+	}, 
+
+	{
+		"position": "Graduate Assistant",  
+		"sdate": "March 2022 \u2014 June 2022", 
+		"desc": {
+			"num": 4, 
+			"bullets": [
+				"• Built an end-to-end ML pipeline to analyze financial news articles, and economic indicators sourced from various online news outlets and public databases. Performed data pre-processing using stemming and lemmatization, EDA, and feature extraction.", 
+				"• Classified 15 million finance news articles using transfer learning with fine-tuned DistillBERT model with an F1 score of 90% and deployed using Google Cloud Platform, maintained using CI/CD practices. Presented results to stakeholders using Tableau,PowerBI." 
+
+			], 
+			"heading": "ML/DS/DE"
+			}, 
+		"employer": "UW - Seattle, WA"
+	}, 
+
+
+	{
+		"position": "Research Assistant",  
+		"sdate": "Nov 2017 \u2014 DEc 2020", 
+		"desc": {
+			"num": 4, 
+			"bullets": [
+			"• Project 1: Formulated a behavioral experiment for a foreign language learning task to find neural dissimilarity between English and Japanese language learning abilities in humans. Collected, and systemized EEG user data, and performed exploratory data analysis.",
+			"• Achieved a baseline accuracy of 82% using the SVM Machine Learning model for time series analysis. Analyzed patterns in the data using statistical signal processing techniques.",
+			"• Project 2: Spearheaded the development of a smart vibration monitoring system. Performed exploratory data analysis, processed signals in the edge, and integrated communication modules.",
+			"• Implemented a near-real-time vibrational signature classification system using 1D CNN Neural Network with an accuracy of 87%. Expanded the database into a graphical user interface for easy data visualization and analysis."
+			],
+
+			"heading": "ML/DS/DE"
+			}, 
+		"employer": "Indian Institute of Science - Bangalore, India"
+	} 
+
+] 
